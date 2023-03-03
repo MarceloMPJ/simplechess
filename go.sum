@@ -1,0 +1,4 @@
+github.com/MarceloMPJ/chess-game v0.0.1 h1:8HtFZRlGQVCTeADhOrJJiEp6vt8XqHGu8GylG52msUc=
+github.com/MarceloMPJ/chess-game v0.0.1/go.mod h1:wWm9hW/k0wU40a8tVJfoiFe4UHlBCHXIuzXqx4aN5Vc=
+github.com/gorilla/websocket v1.5.0 h1:PPwGk2jz7EePpoHN/+ClbZu8SPxiqlu12wZP/3sWmnc=
+github.com/gorilla/websocket v1.5.0/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
